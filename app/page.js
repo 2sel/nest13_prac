@@ -4,6 +4,7 @@ export default function Home() {
     <div>
       <h4 className="title">hello</h4>
       <p className="title-sub">by 2sel {name} </p>
+      <a href="#">링크</a>
     </div>
   );
 }
